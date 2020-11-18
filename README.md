@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ticod&show_icons=true&theme=dracula)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ticod&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lours2021)](https://solved.ac/lours2021)  
   
 - Blog : [ticod's blog](https://ticod-blog.netlify.app/)  
 - Github : [github.com/ticod](https://github.com/ticod)  
@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 - Linkedin : [linkedin.com/in/dohun-kwon](https://www.linkedin.com/in/dohun-kwon-66a98b198)  
 - Email : [lours2021@gmail.com](mailto:lours2021@gmail.com)  
 
-## solved.ac  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lours2021)](https://solved.ac/lours2021)  
+
