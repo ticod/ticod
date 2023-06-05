@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 ## Introduction  
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ticod&show_icons=true&theme=dracula)  
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ticod&show_icons=true&theme=dracula)  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ticod&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lours2021)](https://solved.ac/lours2021)  
+<!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lours2021)](https://solved.ac/lours2021)  -->
   
 - Blog : [ticod's blog](https://ticod-blog.netlify.app/)  
 - Github : [github.com/ticod](https://github.com/ticod)  
